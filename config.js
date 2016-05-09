@@ -1,6 +1,6 @@
 module.exports = {
 	ethServer : {
-		host: 'eth-eu-ethminers-net.herokuapp.com',
+		host: 'pool-ethminers-net.herokuapp.com',
 		path: '/',
 		//since we are listening on a custom port, we need to specify it by hand
 		port: '8545',

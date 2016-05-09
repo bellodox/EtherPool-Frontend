@@ -10,5 +10,5 @@ module.exports = {
 
 	poolAddress : "0xd1e56c2e765180aa0371928fd4d1e41fbcda34d4",
 
-	redisPassword : "your password here"
+	redisPassword : "pd6psoah3pmv7c2lvca6ircb52l"
 };

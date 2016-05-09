@@ -1,9 +1,9 @@
 module.exports = {
 	ethServer : {
-		host: '127.0.0.1',
+		host: 'eth-eu-ethminers-net.herokuapp.com',
 		path: '/',
 		//since we are listening on a custom port, we need to specify it by hand
-		port: '8079',
+		port: '8545',
 		//This is what changes the request to a POST request
 		method: 'POST'
 	},
